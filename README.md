@@ -4,7 +4,7 @@ __Deep Real-time Lidar Odometry__
 This is an unofficial notebook implementation of the LO-Net paper (https://arxiv.org/abs/1904.08242), a deep convolutional network pipeline for real-time lidar odometry estimation. 
 
 ## Update: 
-The project is still unfinished with regards to training the network on the full KITTI dataset, and so results are still very much sub-optimal.
+The project was started during an internship and is still unfinished with regards to training the network on sufficient data. Results are still very much sub-optimal :(
 
 ### Network overview
 
