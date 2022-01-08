@@ -6,11 +6,11 @@ This is an unofficial notebook implementation of the LO-Net paper (https://arxiv
 ## Update: 
 The project is still unfinished with regards to training the network on the full KITTI dataset, and so results are still very much sub-optimal.
 
-## Network overview
+### Network overview
 
 <p align="center"> <img src="assets/network.png" width="100%"> </p>
 
-## Comparison of methods for Normal estimation
+### Comparison of methods for Normal estimation
 
 | Paper             | Open3d             |
 |:--------------------------:|:--------------------------:|
